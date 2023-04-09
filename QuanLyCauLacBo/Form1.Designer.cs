@@ -118,7 +118,7 @@
             ClientSize = new Size(782, 453);
             Controls.Add(flowLayoutPanel1);
             Name = "Form1";
-            Text = "Đăng nhập";
+            Text = "z";
             Load += Form1_Load;
             flowLayoutPanel1.ResumeLayout(false);
             flowLayoutPanel1.PerformLayout();
